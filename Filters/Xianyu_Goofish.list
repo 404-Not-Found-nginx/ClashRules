@@ -1,7 +1,5 @@
 IP-CIDR,47.246.0.0/16,哪都通
 IP-CIDR,59.82.0.0/16,哪都通
 DOMAIN-KEYWORD,goofish,哪都通
-# DOMAIN-SUFFIX,goofish.com,哪都通
-# DOMAIN,tls-goofish.dingtalk.com,哪都通
 DOMAIN-SUFFIX,g.alicdn.com,哪都通
 DOMAIN-SUFFIX,gw.alicdn.com,哪都通
