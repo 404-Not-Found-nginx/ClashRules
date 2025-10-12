@@ -1,6 +1,6 @@
 # 直连列表
 # 来源：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
-# 移除：哔哩哔哩相关，有单独分流
+# 移除：1,哔哩哔哩相关，有单独分流 2,知乎相关，有单独分流
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
@@ -695,8 +695,6 @@ DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhaopin.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
