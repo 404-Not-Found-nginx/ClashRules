@@ -11,3 +11,4 @@ IP-CIDR,88.82.0.0/19,GiffGaff
 IP-CIDR,46.68.0.0/17,GiffGaff
 # Giffgaff
 IP-CIDR,87.194.0.0/16,GiffGaff
+DOMAIN-SUFFIX,giffgaff.com,GiffGaff
